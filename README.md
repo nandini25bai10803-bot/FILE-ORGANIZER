@@ -52,7 +52,7 @@ touch test_folder/misc_file.dat
 Execute the Script on the Test Folder:
 python organizer.py ./test_folder
 
-VEERRIFICATION:
+VERIFICATION:
 After execution, the test_folder directory should contain the following new subdirectories:
 ./test_folder/Documents/ (containing document.pdf)
 ./test_folder/Images/ (containing photo.jpg)
